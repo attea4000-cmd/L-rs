@@ -1,2 +1,2 @@
 # L-rs
-Lörs is very bad
+Lers is very bad
